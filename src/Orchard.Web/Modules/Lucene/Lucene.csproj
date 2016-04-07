@@ -97,6 +97,7 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\Class1.cs" />
     <Compile Include="Models\LuceneDocumentIndex.cs" />
     <Compile Include="Models\LuceneSearchHit.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

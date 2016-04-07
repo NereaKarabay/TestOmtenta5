@@ -9,7 +9,7 @@ using Orchard.Utility.Extensions;
 namespace Lucene.Models {
 
     public class LuceneDocumentIndex : IDocumentIndex {
-
+        // Här gör jag en kommentar
         public List<AbstractField> Fields { get; private set; }
 
         private string _name;
